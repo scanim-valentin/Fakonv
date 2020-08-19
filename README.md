@@ -1,5 +1,5 @@
 # Fakonv
-A tool to play fake conversations in a terminal 
+A tool to play fake conversations in a terminal. **Does not work on Windows for now.**
 
 # Preparation
 You will need to create a text file containing all the replies from the fake conversation member(s), the delay between them and whether or not they are waiting for an answer.
